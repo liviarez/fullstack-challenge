@@ -1,0 +1,26 @@
+{
+  "devDependencies": {
+    "nock": "^13.3.3"
+  },
+  "dependencies": {
+    "express": "4.17.1"
+  },
+  "name": "fullstack-challenge",
+  "type": "module",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liviarez/fullstack-challenge.git"
+  },
+  "author": "livia-rezende",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liviarez/fullstack-challenge/issues"
+  },
+  "homepage": "https://github.com/liviarez/fullstack-challenge#readme"
+}
